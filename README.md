@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repo is for the assigment of course 1 
+This repo is for the assignment of course 1 
